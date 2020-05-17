@@ -1,0 +1,211 @@
+{
+  "objectClass": "NSDictionary",
+  "contentOffset": {
+    "objectClass": "CGPoint",
+    "x": 328.43122984451168,
+    "y": 211.17603055721713
+  },
+  "root": {
+    "lineColorHex": "#BBBBBB",
+    "ID": "7PDCS",
+    "rootPoint": {
+      "objectClass": "CGPoint",
+      "x": 244,
+      "y": 993.16666666666674
+    },
+    "objectClass": "MindNode",
+    "children": {
+      "7": {
+        "lineColorHex": "#BF58F5",
+        "ID": "257WT",
+        "imageName": "s_Q37PF136BU.jpg",
+        "objectClass": "MindNode",
+        "imageSize": {
+          "objectClass": "CGSize",
+          "width": 250,
+          "height": 480
+        },
+        "text": ""
+      },
+      "3": {
+        "lineColorHex": "#37C45A",
+        "ID": "36W5P",
+        "objectClass": "MindNode",
+        "text": "截止时间"
+      },
+      "4": {
+        "lineColorHex": "#1BD6E7",
+        "ID": "HMF6P",
+        "objectClass": "MindNode",
+        "text": "已售"
+      },
+      "0": {
+        "lineColorHex": "#DC306C",
+        "ID": "84206",
+        "objectClass": "MindNode",
+        "text": "图片"
+      },
+      "5": {
+        "lineColorHex": "#FFC700",
+        "ID": "02266",
+        "objectClass": "MindNode",
+        "text": "剩余"
+      },
+      "1": {
+        "lineColorHex": "#BF58F5",
+        "ID": "1PMY8",
+        "objectClass": "MindNode",
+        "text": "名称"
+      },
+      "objectClass": "NSArray",
+      "6": {
+        "lineColorHex": "#DC306C",
+        "ID": "80047",
+        "objectClass": "MindNode",
+        "children": {
+          "3": {
+            "lineColorHex": "#DC306C",
+            "ID": "3T6L1",
+            "objectClass": "MindNode",
+            "text": "名称"
+          },
+          "4": {
+            "lineColorHex": "#DC306C",
+            "ID": "TWM31",
+            "objectClass": "MindNode",
+            "text": "商品详情(文字、图片、视频)"
+          },
+          "0": {
+            "lineColorHex": "#DC306C",
+            "ID": "VN0M0",
+            "objectClass": "MindNode",
+            "text": "滚动图片"
+          },
+          "5": {
+            "lineColorHex": "#DC306C",
+            "ID": "7241I",
+            "objectClass": "MindNode",
+            "children": {
+              "3": {
+                "lineColorHex": "#DC306C",
+                "ID": "7K5E4",
+                "objectClass": "MindNode",
+                "children": {
+                  "3": {
+                    "lineColorHex": "#DC306C",
+                    "ID": "A6N1L",
+                    "objectClass": "MindNode",
+                    "text": "总金额"
+                  },
+                  "4": {
+                    "lineColorHex": "#DC306C",
+                    "ID": "0I5VM",
+                    "objectClass": "MindNode",
+                    "text": "提交订单"
+                  },
+                  "0": {
+                    "lineColorHex": "#DC306C",
+                    "ID": "M3HNE",
+                    "objectClass": "MindNode",
+                    "text": "个人信息地址"
+                  },
+                  "5": {
+                    "lineColorHex": "#DC306C",
+                    "ID": "IJ68D",
+                    "imageName": "s_SIASK35IT0.jpg",
+                    "objectClass": "MindNode",
+                    "imageSize": {
+                      "objectClass": "CGSize",
+                      "width": 270,
+                      "height": 480
+                    },
+                    "text": ""
+                  },
+                  "1": {
+                    "lineColorHex": "#DC306C",
+                    "ID": "H201A",
+                    "objectClass": "MindNode",
+                    "text": "订单详情"
+                  },
+                  "objectClass": "NSArray",
+                  "2": {
+                    "lineColorHex": "#DC306C",
+                    "ID": "4YEA2",
+                    "objectClass": "MindNode",
+                    "text": "留言"
+                  }
+                },
+                "text": "确定"
+              },
+              "1": {
+                "lineColorHex": "#DC306C",
+                "ID": "62587",
+                "objectClass": "MindNode",
+                "text": "尺码"
+              },
+              "4": {
+                "lineColorHex": "#DC306C",
+                "ID": "FY74L",
+                "imageName": "s_07SV2E7712.jpg",
+                "objectClass": "MindNode",
+                "imageSize": {
+                  "objectClass": "CGSize",
+                  "width": 270,
+                  "height": 480
+                },
+                "text": ""
+              },
+              "objectClass": "NSArray",
+              "0": {
+                "lineColorHex": "#DC306C",
+                "ID": "8H8R0",
+                "objectClass": "MindNode",
+                "text": "颜色"
+              },
+              "2": {
+                "lineColorHex": "#DC306C",
+                "ID": "225EE",
+                "objectClass": "MindNode",
+                "text": "数量"
+              }
+            },
+            "text": "立即抢购"
+          },
+          "1": {
+            "lineColorHex": "#DC306C",
+            "ID": "X1UY7",
+            "objectClass": "MindNode",
+            "text": "团购价、原价"
+          },
+          "objectClass": "NSArray",
+          "6": {
+            "lineColorHex": "#DC306C",
+            "ID": "J2722",
+            "imageName": "s_53047NC653.jpg",
+            "objectClass": "MindNode",
+            "imageSize": {
+              "objectClass": "CGSize",
+              "width": 270,
+              "height": 480
+            },
+            "text": ""
+          },
+          "2": {
+            "lineColorHex": "#DC306C",
+            "ID": "O3U48",
+            "objectClass": "MindNode",
+            "text": "距离结束倒计时"
+          }
+        },
+        "text": "立即抢购"
+      },
+      "2": {
+        "lineColorHex": "#26BBFF",
+        "ID": "5E5JM",
+        "objectClass": "MindNode",
+        "text": "团购价、原价"
+      }
+    },
+    "text": "团购"
+  }
+}
