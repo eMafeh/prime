@@ -13,8 +13,8 @@ public class PrimeProducerUpdate {
             int area = 3_0000_0000;
             long l = System.currentTimeMillis();
 //        int[] number = NetPrime.calculateNumber(area);
-//            int[] ints = PrimeProducer.init(area);
-            int[] init = init(area);
+            int[] ints = PrimeProducer.init(area);
+//            int[] init = init(area);
             System.out.println(l - System.currentTimeMillis());
 //            for (int j = 0; j < ints.length; j++) if (ints[j] != init[j]) break;
 //        System.out.println(Arrays.toString(init));
